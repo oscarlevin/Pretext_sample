@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chapter Title</title>
+  <title>Introduction To Matrices and Matrix Arithmetic </title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> As you will see from the other set of notes, there are two ways of introducing matrices. You
+      can either start with solving equations and then look at arithmetic, otherwise you can look
+      at the arithmetic first and then solve equations. Both approaches are as good as each other,
+      so we’ve given you one of each. You should also notice that this lecture contains an awful lot
+      of names and definitions. </p>
+
+      <p>
+         <term>Literary Note:</term>    The singular is matrix and the plural is matrices (which is pronounced:
+mate-ri-seas).
+      </p>
   </introduction>
 
   <!-- include sections -->

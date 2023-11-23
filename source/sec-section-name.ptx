@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Section Title</title>
+<section xml:id="sec-definition" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Definitions and Terminologies</title>
 
+  <subsection xml:id="subsec-definition" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title> Matrices </title> 
+    <definition xml:id="def-matrices">
+      <statement>
+        <p>
+          A matrix is a rectangular array of numbers. The numbers can be of any
+sort, and the rectangle can be of any shape or size.
+        </p>
+      </statement>
+    </definition>
+
+    <example xml:id="example-sets-other-relations">
+      <title>Some examples of Matrices</title>
+      <p>
+        <figure>
+          <caption>New Zealand Landscape,
+          <url href="https://commons.wikimedia.org/wiki/File:NZ_Landscape_from_the_van.jpg" visual="commons.wikimedia.org/wiki/File:NZ_Landscape_from_the_van.jpg"><c>commons.wikimedia.org</c></url>,
+          CC-BY-SA-2.0</caption>
+          <image source="matrix_ex.png" width="80%" />
+        </figure>
+      </p>
+    </example>
+
+    <md alignment="alignat" alignat-columns="2">
+      <mrow>A &amp;= \begin{bmatrix}1 &amp; 2 \\ 3 &amp; 4\end{bmatrix} &amp; I &amp;= \begin{bmatrix}1 &amp; 0 \\ 0 &amp; 1\end{bmatrix}</mrow>
+    </md>.
+  </subsection>
   <p> Text of section. </p>
 
 </section>
