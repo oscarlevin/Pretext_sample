@@ -14,14 +14,13 @@ sort, and the rectangle can be of any shape or size.
       </statement>
     </definition>
 
-    <example xml:id="example-sets-other-relations">
+    <example xml:id="example">
       <title>Some examples of Matrices</title>
       <p>
         <figure>
-          <caption>New Zealand Landscape,
-          <url href="https://commons.wikimedia.org/wiki/File:NZ_Landscape_from_the_van.jpg" visual="commons.wikimedia.org/wiki/File:NZ_Landscape_from_the_van.jpg"><c>commons.wikimedia.org</c></url>,
-          CC-BY-SA-2.0</caption>
-          <image source="images/matrix_ex.png" width="100%" />
+          <caption> Some examples of matrices
+          </caption>
+          <image source="images/matrix_ex.png.png" width="100%" />
         </figure>
       </p>
     </example>
